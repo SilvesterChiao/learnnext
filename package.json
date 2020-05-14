@@ -1,0 +1,27 @@
+{
+  "name": "learnkoa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-less": "^1.0.1",
+    "antd": "^4.2.2",
+    "cowsay-browser": "^1.1.8",
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-static": "^5.0.0",
+    "less": "^3.11.1",
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
