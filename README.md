@@ -2,7 +2,7 @@
  * @Author: SilvesterChiao
  * @Date: 2020-05-12 16:34:29
  * @LastEditors: SilvesterChiao
- * @LastEditTime: 2020-05-12 16:37:38
+ * @LastEditTime: 2020-09-25 14:11:47
  -->
 
 # koa.js、next.js
@@ -11,5 +11,4 @@
 
 `next.js` 是服务器渲染框架
 
-- [koa.js](/src/docs/koajs/index.md)
 - [next.js](/src/docs/nextjs/index.md)

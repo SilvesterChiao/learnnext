@@ -15,6 +15,7 @@
   "dependencies": {
     "@zeit/next-less": "^1.0.1",
     "antd": "^4.2.2",
+    "autoprefixer": "^9.8.0",
     "cowsay-browser": "^1.1.8",
     "koa": "^2.11.0",
     "koa-body": "^4.1.1",

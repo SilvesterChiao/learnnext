@@ -13,7 +13,7 @@
 
 假设有如下目录结构
 
-|--static
+|--static  静态资源, 可以使用 /static/ 引用
 |--pages
 |    |--_app.js
 |    |--_document.js
@@ -28,6 +28,8 @@
 ## pages/_app.js
 
 ## pages/_document.js
+
+## pages/_error.js
 
 ## 常用包
 
@@ -49,7 +51,7 @@ module.exports = withLess()
 
 ## <style jsx>
 
-## 参考链接
+## 参考文档
 
 1. [Next.js 入门](https://segmentfault.com/a/1190000018888296)
 1. [React Nextjs （上）](https://www.jianshu.com/p/afb102f52a4e)
